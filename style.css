@@ -1,0 +1,8 @@
+body{
+background: rgb(204,255,8);
+background: radial-gradient(circle, rgba(204,255,8,1) 0%, rgba(164,175,169,1) 100%);
+}
+h3{
+    font-size: 42px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
